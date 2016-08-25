@@ -1,0 +1,16 @@
+{
+  "name": "churchutilities",
+  "description": "feed transfers and calendar splitting grab bag",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
